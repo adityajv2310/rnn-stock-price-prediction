@@ -10,7 +10,7 @@ Make a Recurrent Neural Network model for predicting stock price of Google using
 
 ## Neural Network Model:
 
-![DL exp5 nn model](https://user-images.githubusercontent.com/75235386/196037136-ebafd9d7-077e-4d16-b069-942373596fc1.png)
+![DL exp5 nn model](https://user-images.githubusercontent.com/75235386/196200346-66bc60a8-9a4a-4629-b58d-6f18122cdaee.jpeg)
 
 ## DESIGN STEPS:
 
