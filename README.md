@@ -1,4 +1,7 @@
-# Stock Price Prediction
+### EXP NO: 05
+### DATE: 16.10.2022
+
+# <p align = "center"> Stock Price Prediction
 
 ## AIM:
 
@@ -36,8 +39,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 ## PROGRAM:
 
 ```
-# Developed By: Aditya JV
-# Register number:212220230002
+Developed By: Aditya JV
+Register number:212220230002
 ```
 
 ```Python
